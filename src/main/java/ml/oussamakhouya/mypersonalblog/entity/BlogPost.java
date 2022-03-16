@@ -23,8 +23,10 @@ public class BlogPost {
     private String preview;
 
     @Column(name = "content", columnDefinition = "TEXT")
-
     private String content;
+
+    @Column(name = "image_url")
+    private String imageUrl;
 
     @CreationTimestamp
     @Column(name = "date_created")
