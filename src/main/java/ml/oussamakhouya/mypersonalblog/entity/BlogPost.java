@@ -16,6 +16,10 @@ public class BlogPost {
     @Column(name = "id")
     private Long id;
 
+    @ManyToOne
+    @JoinColumn(name = "category_id", nullable = false)
+    private BlogPostCategory category;
+
     @Column(name = "title")
     private String title;
 
