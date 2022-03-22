@@ -7,7 +7,7 @@ import org.springframework.data.rest.core.annotation.RepositoryRestResource;
 import org.springframework.web.bind.annotation.CrossOrigin;
 
 @CrossOrigin
-@RepositoryRestResource(collectionResourceRel = "BlogPostCategory", path = "blogPost-category")
+@RepositoryRestResource(collectionResourceRel = "blogPostCategory", path = "blogPost-category")
 public interface BlogPostCategoryRepository extends JpaRepository<BlogPostCategory, Long> {
 
 
