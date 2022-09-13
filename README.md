@@ -1,6 +1,6 @@
 # My Personal Blog - Spring Boot and Angular
 This repository is the backend of the project.
-To check the frontend part visite [my-personal-blog-angular](https://github.com/OussamaKhouya/my-personal-blog-angular)
+To check the frontend part visite [my-personal-blog-angular](https://github.com/OussamaKhouya/vagabondF)
 ## Live Preview : [Open Link](https://my-personal-blog-angular.vercel.app/) 
 ***
 ### Project Description
