@@ -9,7 +9,7 @@ To check the frontend part visite [my-personal-blog-angular](https://github.com/
 - The blog administrators can write and post articles and pictures.
 - they can also give blog posts different tags and classify them into various categories.
 - The visitors can view and comment blog posts,search by keyword and categories.
-### ED Diagram
+### ER Diagram
 <div align=center>
 <img src="./src/blog_ER_Diagram.drawio.svg" width="90%"/>
 </div>
